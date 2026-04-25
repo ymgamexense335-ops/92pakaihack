@@ -6,7 +6,7 @@
   "login_url": "https://www.92pak14.com/#/login",
   "register_url": "https://www.92pak14.com/#/register",
   "telegram_url": "https://whatsapp.com/channel/0029VbBt5ZREFeXtTuSn320L",
-  "home_url": "https://www.92pak14./#/",
+  "home_url": "https://www.92pak14.com/#/",
   "minimum_deposit": 300,
   "minimum_deposit_number": 500,
   "allowed_numbers": ["65352928104"],
